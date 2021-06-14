@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\HomeworkQuizSimple\HomeworkQuizSimple\bin\Debug\net5.0\HomeworkQuizSimple.exe
+C:\Users\user\source\repos\HomeworkQuizSimple\HomeworkQuizSimple\bin\Debug\net5.0\HomeworkQuizSimple.deps.json
+C:\Users\user\source\repos\HomeworkQuizSimple\HomeworkQuizSimple\bin\Debug\net5.0\HomeworkQuizSimple.runtimeconfig.json
+C:\Users\user\source\repos\HomeworkQuizSimple\HomeworkQuizSimple\bin\Debug\net5.0\HomeworkQuizSimple.runtimeconfig.dev.json
+C:\Users\user\source\repos\HomeworkQuizSimple\HomeworkQuizSimple\bin\Debug\net5.0\HomeworkQuizSimple.dll
+C:\Users\user\source\repos\HomeworkQuizSimple\HomeworkQuizSimple\bin\Debug\net5.0\ref\HomeworkQuizSimple.dll
+C:\Users\user\source\repos\HomeworkQuizSimple\HomeworkQuizSimple\bin\Debug\net5.0\HomeworkQuizSimple.pdb
+C:\Users\user\source\repos\HomeworkQuizSimple\HomeworkQuizSimple\obj\Debug\net5.0\HomeworkQuizSimple.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\HomeworkQuizSimple\HomeworkQuizSimple\obj\Debug\net5.0\HomeworkQuizSimple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\HomeworkQuizSimple\HomeworkQuizSimple\obj\Debug\net5.0\HomeworkQuizSimple.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\HomeworkQuizSimple\HomeworkQuizSimple\obj\Debug\net5.0\HomeworkQuizSimple.AssemblyInfo.cs
+C:\Users\user\source\repos\HomeworkQuizSimple\HomeworkQuizSimple\obj\Debug\net5.0\HomeworkQuizSimple.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\HomeworkQuizSimple\HomeworkQuizSimple\obj\Debug\net5.0\HomeworkQuizSimple.dll
+C:\Users\user\source\repos\HomeworkQuizSimple\HomeworkQuizSimple\obj\Debug\net5.0\ref\HomeworkQuizSimple.dll
+C:\Users\user\source\repos\HomeworkQuizSimple\HomeworkQuizSimple\obj\Debug\net5.0\HomeworkQuizSimple.pdb
+C:\Users\user\source\repos\HomeworkQuizSimple\HomeworkQuizSimple\obj\Debug\net5.0\HomeworkQuizSimple.genruntimeconfig.cache
