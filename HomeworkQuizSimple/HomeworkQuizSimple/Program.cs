@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace HomeworkQuizSimple
 {
@@ -91,62 +91,27 @@ namespace HomeworkQuizSimple
                 switch (i)
                 {
                     case 0:
-                        {
-                            if (answer == 'A') isAnswers(true);
-                            else isAnswers(false);
-                            break;
-                        }
-                    case 1:
-                        {
-                            if (answer == 'C') isAnswers(true);
-                            else isAnswers(false);
-                            break;
-                        }
-                    case 2:
-                        {
-                            if (answer == 'B') isAnswers(true);
-                            else isAnswers(false);
-                            break;
-                        }
-                    case 3:
-                        {
-                            if (answer == 'B') isAnswers(true);
-                            else isAnswers(false);
-                            break;
-                        }
                     case 4:
-                        {
-                            if (answer == 'A') isAnswers(true);
-                            else isAnswers(false);
-                            break;
-                        }
-                    case 5:
-                        {
-                            if (answer == 'B') isAnswers(true);
-                            else isAnswers(false);
-                            break;
-                        }
                     case 6:
                         {
                             if (answer == 'A') isAnswers(true);
                             else isAnswers(false);
                             break;
                         }
+                    case 1:
                     case 7:
-                        {
-                            if (answer == 'C') isAnswers(true);
-                            else isAnswers(false);
-                            break;
-                        }
-                    case 8:
-                        {
-                            if (answer == 'B') isAnswers(true);
-                            else isAnswers(false);
-                            break;
-                        }
                     case 9:
                         {
                             if (answer == 'C') isAnswers(true);
+                            else isAnswers(false);
+                            break;
+                        }
+                    case 2:
+                    case 3:
+                    case 5:
+                    case 8:
+                        {
+                            if (answer == 'B') isAnswers(true);
                             else isAnswers(false);
                             break;
                         }
